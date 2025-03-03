@@ -1,6 +1,8 @@
 
-
 **Código**
+
+```
+Aguayo Virgen Brisa Julianna
 
 .begin:
     mov Ra, 10         ; Cargar el primer número en Ra
@@ -14,7 +16,7 @@
 
 .end:
     jmp .end           ; Bucle infinito para detener el programa
-
+````
 
 **Explicación**
 
